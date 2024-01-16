@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Ejerc1.Servicios
 {
+    /// <summary>
+    /// Implementación para el calculo de los dias
+    /// 16-01-2024 - David RA
+    /// </summary>
     internal class ImplPedi:InterfazPedi
     {
         private string apellidoP;

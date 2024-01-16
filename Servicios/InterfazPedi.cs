@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Ejerc1.Servicios
 {
+    /// <summary>
+    /// Interfaz que corresponde a la funcionalidad del calculo
+    /// Contiene el calculo de los dias
+    /// </summary>
     internal interface InterfazPedi
     {
         public string pedirNomb();

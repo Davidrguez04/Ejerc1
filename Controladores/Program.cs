@@ -21,8 +21,18 @@ using Ejerc1.Servicios;
 
 namespace Ejerc1.Controladores
 {
+    /// <summary>
+    /// Clase que controla el flujo de procedimientos de la aplicación
+    /// 16-01-2021 David Rodriguez Alonso
+    /// </summary>
     class Program
     {
+        /// <summary>
+        /// Método de entrada a la aplicación
+        /// contiene el procedimiento o flujo de nuestra aplicación
+        /// 16-01-2024 - David Rodriguez Alonso
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             InterfazPedi ni = new ImplPedi();
